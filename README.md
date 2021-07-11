@@ -574,5 +574,16 @@
 
 
 
+<ul>
 
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/c(1).pdf" style="text-decoration:none;">Ironies of Automation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/c(2).pdf" style="text-decoration:none;">No Silver Bullet – Essence and Accident in Software Engineering</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/c(3).pdf" style="text-decoration:none;">How Do Committees Invent?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/c(4).pdf" style="text-decoration:none;">Out of the Tar Pit</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-programming/blob/master/c(5).pdf" style="text-decoration:none;">A Plea for Lean Software</a></li>
+</ul>
 
