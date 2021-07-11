@@ -568,3 +568,11 @@
 <li><a class="mw-redirect" title="Software optimization" href="https://en.wikipedia.org/wiki/Software_optimization">Software optimization</a></li>
 <li><a title="Software brittleness" href="https://en.wikipedia.org/wiki/Software_brittleness">Software brittleness</a></li>
 </ul>
+
+</br>
+<h2> 5 Computer Science Papers That Changed How to Write Code: </h2>
+
+
+
+
+
